@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Pason!
 
-<!--
-**Pasonnn/Pasonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science student passionate about blockchain and Web3.
+- 🛠️ Building a **crypto wallet** project using **Solana**.
+- 🌱 Currently learning advanced **numerology concepts** and **Reinforcement Learning**.
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- Programming: **C++, Python, JavaScript**
+- Blockchain: **Solana, Web3.js**
+- Tools: **VS Code, Git, Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Current Projects
+- 🚀 Building [PEPEAI Wallet](https://github.com/your-wallet-link)
+
+## 📫 Connect with Me
+- Email: your.email@example.com
+- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+
