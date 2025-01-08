@@ -6,8 +6,9 @@
 - 🌟 Passionate about revolutionizing how we interact with blockchain technology, currently building innovative solutions for the **crypto world**.
 
 ## 🏗️ Current Projects
-- 🚀 **Crypto Wallet**: Designing and implementing a secure, seamless crypto wallet experience, with a special focus on **Web3 integrations**.
+- 🚀 **Crypto Wallet**: Designing and implementing a secure, seamless crypto wallet experience that bridges **Web2 and Web3**. The wallet enables Web2 users to purchase items with cryptocurrency effortlessly. It also incorporates **AI-powered features** and many more functionalities, offering a comprehensive and user-friendly solution for the modern digital economy.
 
+This highlights the unique integration and advanced capabilities of your wallet. Let me know if you need further refinements! 😊
 ## 🏆 Achievements
 - 🥉 **Top 3 Greenwich Coding Challenge Final Round 2023**
 - 🥉 **Top 3 IT Student of Summer Semester 2023**
