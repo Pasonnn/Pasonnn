@@ -20,16 +20,29 @@
 - **Solidity** 🔗  
 
 ### Frameworks & Tools
+
+#### **Web3 (Smart Contract Development)**
 - **Solidity + Python**:  
   - [Brownie](https://eth-brownie.readthedocs.io/en/stable/): Python framework for Ethereum smart contracts.  
   - [Web3.py](https://web3py.readthedocs.io/en/stable/): Python library for interacting with the Ethereum blockchain.
-
 - **Solidity + JavaScript**:  
   - [Hardhat](https://hardhat.org/): Development environment for Ethereum smart contracts.  
   - [Truffle](https://trufflesuite.com/): Smart contract development framework.  
-  - [ethers.js](https://docs.ethers.io/v5/): A library for interacting with Ethereum.  
+  - [ethers.js](https://docs.ethers.io/v5/): A library for interacting with Ethereum.
+- **Security**:  
+  - [OpenZeppelin](https://openzeppelin.com/contracts/): Secure, audited smart contract libraries for Solidity.
 
-- Full-stack: **MEVN Stack** (MongoDB, Express.js, Vue.js, Node.js).
+#### **Web2 (Backend & Frontend)**
+- **Frontend**: [Vue.js](https://vuejs.org/): Progressive JavaScript framework for building user interfaces.  
+- **Backend**: [Express.js](https://expressjs.com/): Minimal and flexible Node.js web application framework.
+
+#### **Data (Databases)**
+- **SQL**: [PostgreSQL](https://www.postgresql.org/): Advanced relational database with JSON support.  
+- **NoSQL**: [MongoDB](https://www.mongodb.com/): Document-oriented NoSQL database for scalable applications.
+
+#### **DevOps & Collaboration**
+- **Containerization**: [Docker](https://www.docker.com/): For containerizing applications and streamlining development.  
+- **Version Control**: [GitHub](https://github.com/): Repository management and collaboration platform.
 
 ## ⚽ Fun Facts
 - ⚽ Avid **football fan**, always ready to catch a game or hit the pitch.  
