@@ -9,7 +9,23 @@
 ## 🏆 Achievements
 - 🥉 **Top 3 Greenwich Coding Challenge Final Round 2023**
 - 🥉 **Top 3 IT Student of Summer Semester 2023**
-- 📄 **Publication**: *"A Blockchain-based Autonomous Data Storage System—Revolutionizing Data Storage and Comparative Analysis with Centralized Systems"*
+- 📄 **Publication**: [*"A Blockchain-based Autonomous Data Storage System—Revolutionizing Data Storage and Comparative Analysis with Centralized Systems"*](https://www.ijcaonline.org/archives/volume185/number35/32917-2023923141/)
+- 🎓 **Semester Best Student** in Principles of Security, Object-Oriented Programming (OOP), Networking Foundation, and Professional Project Management 
+
+## 🌍 Community & Contributions  
+- 🏆 **Blockchain Advisor – Miss Charm 2022**  
+  - Provided insights on blockchain technology and Web3 adoption.  
+- 🔍 **Crypto Researcher – [Coinbold](https://coinbold.io/)**  
+  - Conducted research on blockchain trends, DeFi, and emerging crypto projects.  
+- 🏛 **Core Member – HelloGIT (UoG IT Club)**  
+  - Engaged in tech meetups, coding events, and blockchain discussions.  
+## 🎓 Online Courses & Certifications  
+- 🖥 **[CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/2ab6c6dea6bd4829a66aba217f21023f)** – Harvard / edX  
+  - Fundamental computer science concepts, problem-solving, and programming.  
+- 🛠 **[Meta Database Engineer](https://www.coursera.org/account/accomplishments/specialization/certificate/WULD8WDTXLUJ) – Coursera**  
+  - Skills in **SQL, Python, Django**, and database management.  
+- 🔗 **Advanced Solidity – CryptoZombies & Alchemy University**  
+  - In-depth **smart contract development, security, and optimization** for Ethereum & EVM chains.  
 
 ## 🔧 Skills
 ### Languages
