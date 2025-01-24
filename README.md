@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Pason!
-🚀 Junior Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain Gaming 🔥  
+🔗 Junior Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain Gaming 🔥  
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
