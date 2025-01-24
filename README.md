@@ -1,14 +1,10 @@
 # Hi there 👋, I'm Pason!
+🚀 Junior Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain Gaming 🔥  
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
 - 💻 **Blockchain Developer & Web3 Enthusiast**  
 - 🌟 Passionate about revolutionizing how we interact with blockchain technology, currently building innovative solutions for the **crypto world**.
-
-## 🏗️ Current Projects
-- 🚀 **Crypto Wallet**: Designing and implementing a secure, seamless crypto wallet experience that bridges **Web2 and Web3**. The wallet enables Web2 users to purchase items with cryptocurrency effortlessly. It also incorporates **AI-powered features** and many more functionalities, offering a comprehensive and user-friendly solution for the modern digital economy.
-- 🚀 **Meme AI Agent ($PEPEAI)**: Building an innovative **AI-powered agent** tailored for the Web3 and crypto community. The agent provides **real-time crypto insights**, facilitates **interactive chat**, and generates **customized meme content** to drive community engagement. It bridges the gap between **AI technology** and meme culture, creating a unique experience for $PEPEAI token holders.
-- 🚀 **Meme Coin Platform**: Developing a platform that makes creating, launching, and trading meme coins **simple, fast, and accessible** for everyone. It features **no-code coin creation**, **one-click launches** on major blockchains, and a **built-in marketplace** for seamless trading. The platform also includes **analytics dashboards** and **community tools** to empower users to bring their meme coin ideas to life.  
 
 ## 🏆 Achievements
 - 🥉 **Top 3 Greenwich Coding Challenge Final Round 2023**
