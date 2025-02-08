@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
-- 💻 **Blockchain Developer & Web3 Enthusiast**  
+- 💻 **Fullstack Web Developer | Blockchain Developer & Web3 Enthusiast**  
 - 🌟 Passionate about revolutionizing how we interact with blockchain technology, currently building innovative solutions for the **crypto world**.
 
 ## 🏆 Achievements
