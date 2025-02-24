@@ -31,7 +31,9 @@
 ### Languages
 - **Python** 🐍  
 - **JavaScript** 🌐  
-- **Solidity** 🔗  
+- **Solidity** 🔗
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasonnn&layout=compact)
 
 ### Frameworks & Tools
 
@@ -80,3 +82,7 @@ I'm always looking to collaborate on exciting open-source blockchain projects. F
 ---
 
 Let’s build the future of Web3 together! 🌐🚀
+
+---
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Pasonnn)
