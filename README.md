@@ -1,6 +1,5 @@
-# Hi there 👋, I'm Pason!
+# [Hi there 👋, I'm Pason!](https://pasonweb3cv.vercel.app/)
 🔗 Junior Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain Gaming 🔥  
-[🌐 View My Website](https://pasonweb3cv.vercel.app/)
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
