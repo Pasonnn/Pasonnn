@@ -49,12 +49,21 @@
   - [OpenZeppelin](https://openzeppelin.com/contracts/): Secure, audited smart contract libraries for Solidity.
 
 #### **Web2 (Backend & Frontend)**
-- **Frontend**: [Vue.js](https://vuejs.org/): Progressive JavaScript framework for building user interfaces.  
-- **Backend**: [Express.js](https://expressjs.com/): Minimal and flexible Node.js web application framework.
+- **Frontend**:
+  - [Vue.js](https://vuejs.org/): Progressive JavaScript framework for building user interfaces.
+  - [React.js](https://reactjs.org/): Declarative, component-based library for creating dynamic UIs.
+- **Backend**:
+  - [Express.js](https://expressjs.com/): Minimal and flexible Node.js web application framework.
+  - [FastAPI](https://fastapi.tiangolo.com/): High-performance Python API framework using standard type hints.
+  - [Flask](https://flask.palletsprojects.com/): Lightweight Python web framework for rapid development.
 
 #### **Data (Databases)**
-- **SQL**: [PostgreSQL](https://www.postgresql.org/): Advanced relational database with JSON support.  
-- **NoSQL**: [MongoDB](https://www.mongodb.com/): Document-oriented NoSQL database for scalable applications.
+- **SQL**:
+  - [PostgreSQL](https://www.postgresql.org/): Advanced relational database with robust JSON support.
+  - [MySQL](https://www.mysql.com/): Popular open-source relational database management system.
+  - [SQL Server](https://www.microsoft.com/en-us/sql-server): Microsoft's enterprise-grade relational database.
+- **NoSQL**:
+  - [MongoDB](https://www.mongodb.com/): Document-oriented NoSQL database designed for scalability.
 
 #### **DevOps & Collaboration**
 - **Containerization**: [Docker](https://www.docker.com/): For containerizing applications and streamlining development.  
