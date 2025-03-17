@@ -89,6 +89,10 @@ I'm always looking to collaborate on exciting open-source blockchain projects. F
 - 🛠️ Contribute significantly to the **crypto and Web3 ecosystem** by building impactful projects.  
 - 🚀 Expand my skillset in blockchain scalability and decentralized finance (DeFi).  
 
+## 📫 Contact Me  
+📍 District 8, HCMC | 📞 +84 337 737 047 | ✉️ [pason.dev@gmail.com](mailto:pason.dev@gmail.com)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/pasonnn/) | 💻 [GitHub Profile](https://github.com/Pasonnn) | 🌐 [Web3 Portfolio](https://pasonweb3cv.vercel.app/)  
+
 ---
 
 Let’s build the future of Web3 together! 🌐🚀
