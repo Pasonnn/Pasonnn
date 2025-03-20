@@ -1,5 +1,5 @@
 # [Hi there 👋, I'm Pason.dev!](https://pasonweb3cv.vercel.app/)
-🔗 Junior Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain 🔥  
+🔗 Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain 🔥  
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
@@ -19,7 +19,8 @@
 - 🔍 **Crypto Researcher – [Coinbold](https://coinbold.io/)**  
   - Conducted research on blockchain trends, DeFi, and emerging crypto projects.  
 - 🏛 **Core Member – HelloGIT (UoG IT Club)**  
-  - Engaged in tech meetups, coding events, and blockchain discussions.  
+  - Engaged in tech meetups, coding events, and blockchain discussions.
+   
 ## 🎓 Online Courses & Certifications  
 - 🖥 **[CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/2ab6c6dea6bd4829a66aba217f21023f)** – Harvard / edX  
   - Fundamental computer science concepts, problem-solving, and programming.  
@@ -76,11 +77,7 @@
 - 🧮 Fascinated by **numerology** and its intersection with data science.  
 
 ## ✨ What Inspires Me
-*"The best way to predict the future is to create it."*  
-
-## 📫 Connect with Me
-- ✉️ **Email**: [pason0175@gmail.com](mailto:pason0175@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/pasonnn](https://www.linkedin.com/in/pasonnn/)  
+*"The best way to predict the future is to create it."*    
 
 ## 🌟 Open Source Contributions
 I'm always looking to collaborate on exciting open-source blockchain projects. Feel free to reach out if you have something cool in mind!
