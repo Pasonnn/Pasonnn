@@ -1,5 +1,5 @@
 # [Hi there 👋, I'm Pason.dev!](https://pasonweb3cv.vercel.app/)
-🔗 Web3 Developer | 4+ Years in Web3 | Smart Contracts, DeFi, NFT, & Blockchain 🔥  
+🔗 Software Engineer | 4+ Years in Web3 | Vue.js, React.js |Node.js, FastAPI, Flask | Smart Contracts, Web3 Integration 🔥  
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
