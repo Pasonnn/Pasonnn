@@ -88,7 +88,7 @@ I'm always looking to collaborate on exciting open-source blockchain projects. F
 
 ## 📫 Contact Me  
 📍 District 8, HCMC | 📞 +84 337 737 047 | ✉️ [pason.dev@gmail.com](mailto:pason.dev@gmail.com)  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/pasonnn/) | 💻 [GitHub Profile](https://github.com/Pasonnn) | 🌐 [Web3 Portfolio](https://pasonweb3cv.vercel.app/)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/pasonnn/) | 💻 [GitHub Profile](https://github.com/Pasonnn) | 🌐 [Web3 Portfolio](https://pasonweb3cv.vercel.app/) | 🧩 [Leetcode](https://leetcode.com/u/pasonnn/)
 
 ---
 
