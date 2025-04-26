@@ -1,9 +1,9 @@
 # [Hi there 👋, I'm Pason.dev!](https://pasonweb3cv.vercel.app/)
-🔗 Software Engineer | 4+ Years in Web3 | Vue.js, React.js | Node.js, FastAPI, Flask | Smart Contracts, Web3 Integration 🔥  
+🔗 Software Engineer | 4+ Years in Web3 | Node.js, FastAPI, Flask | Smart Contracts, Web3 Integration 🔥  
 
 ## 🚀 About Me
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
-- 💻 **Fullstack Web Developer | Blockchain Developer & Web3 Enthusiast**  
+- 💻 **Blockchain and Backend Engineer**  
 - 🌟 Passionate about revolutionizing how we interact with blockchain technology, currently building innovative solutions for the **crypto world**.
 - 🧮 Developing **crypto automation**, **building trading bots**, **retroactive scripts**, and **blockchain tools**.
 
