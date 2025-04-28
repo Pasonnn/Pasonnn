@@ -20,6 +20,24 @@
   - Conducted research on blockchain trends, DeFi, and emerging crypto projects.  
 - 🏛 **Core Member – HelloGIT (UoG IT Club)**  
   - Engaged in tech meetups, coding events, and blockchain discussions.
+ 
+## 🚀 Current Projects
+
+### 🔥 Agora Chat - Web3-Enhanced Messaging Platform
+**Description**: A hybrid Web2/Web3 messaging app featuring:  
+- ✅ **Wallet-based identities** (ENS, NFT avatars)  
+- 🔒 **Token-gated communities**  
+- 💬 **Encrypted group chats**  
+- 🌐 **Crypto-native features** (in-chat payments, DAO voting)  
+
+**Tech Stack**:  
+- **Frontend**: Next.js, Tailwind, Wagmi  
+- **Backend**: Node.js (NestJS), MongoDB  
+- **Web3**: Ethers.js, Alchemy, Solidity  
+
+**Links**:  
+- [GitHub Repo](https://github.com/Pasonnn/agora-chat)  
+- [GitHub Project Board](https://github.com/users/Pasonnn/projects/1)  
    
 ## 🎓 Online Courses & Certifications  
 - 🖥 **[CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/2ab6c6dea6bd4829a66aba217f21023f)** – Harvard / edX  
