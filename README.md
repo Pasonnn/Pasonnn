@@ -32,7 +32,7 @@
 
 **Tech Stack**:  
 - **Frontend**: Next.js, Tailwind, Wagmi  
-- **Backend**: Node.js (NestJS), MongoDB  
+- **Backend**: Node.js (NestJS), Django, MongoDB  
 - **Web3**: Ethers.js, Alchemy, Solidity  
 
 **Links**:  
