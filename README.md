@@ -23,21 +23,7 @@
  
 ## 🚀 Current Projects
 
-### 🔥 Agora Chat - Web3-Enhanced Messaging Platform
-**Description**: A hybrid Web2/Web3 messaging app featuring:  
-- ✅ **Wallet-based identities** (ENS, NFT avatars)  
-- 🔒 **Token-gated communities**  
-- 💬 **Encrypted group chats**  
-- 🌐 **Crypto-native features** (in-chat payments, DAO voting)  
-
-**Tech Stack**:  
-- **Frontend**: Next.js, Tailwind, Wagmi  
-- **Backend**: Node.js (NestJS), Django, MongoDB  
-- **Web3**: Ethers.js, Alchemy, Solidity  
-
-**Links**:  
-- [GitHub Repo](https://github.com/Pasonnn/agora-chat)  
-- [GitHub Project Board](https://github.com/users/Pasonnn/projects/1)  
+### 🔥 Founder of [The Decode Network](https://github.com/Decode-Labs-Web3/) (Review Soon) 🔥
    
 ## 🎓 Online Courses & Certifications  
 - 🖥 **[CS50x: CS50's Introduction to Computer Science](https://courses.edx.org/certificates/2ab6c6dea6bd4829a66aba217f21023f)** – Harvard / edX  
@@ -50,49 +36,57 @@
 ## 🔧 Skills
 ### Languages
 - **Python** 🐍  
-- **JavaScript** 🌐  
+- **Typescript/Javascript** 🌐  
 - **Solidity** 🔗
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasonnn&layout=compact&theme=dark)
 
 ### Frameworks & Tools
 
-#### **Web3 (Smart Contract Development)**
-- **Solidity + Python**:  
-  - [Brownie](https://eth-brownie.readthedocs.io/en/stable/): Python framework for Ethereum smart contracts.  
-  - [Web3.py](https://web3py.readthedocs.io/en/stable/): Python library for interacting with the Ethereum blockchain.
-- **Solidity + JavaScript**:  
-  - [Hardhat](https://hardhat.org/): Development environment for Ethereum smart contracts.  
-  - [Truffle](https://trufflesuite.com/): Smart contract development framework.  
-  - [ethers.js](https://docs.ethers.io/v5/): A library for interacting with Ethereum.
-- **Security**:  
-  - [OpenZeppelin](https://openzeppelin.com/contracts/): Secure, audited smart contract libraries for Solidity.
-
-#### **Web2 (Backend & Frontend)**
+#### **Web (Backend & Frontend)**
 - **Frontend**:
-  - [Vue.js](https://vuejs.org/): Progressive JavaScript framework for building user interfaces.
   - [React.js](https://reactjs.org/): Declarative, component-based library for creating dynamic UIs.
+  - [Next.js](https://nextjs.org/): React framework for server-side rendering, static site generation, and full-stack web applications.
 - **Backend**:
+  - [NestJS](https://nestjs.com/): A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
   - [Express.js](https://expressjs.com/): Minimal and flexible Node.js web application framework.
   - [FastAPI](https://fastapi.tiangolo.com/): High-performance Python API framework using standard type hints.
+  - [Django](https://www.djangoproject.com/): Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
   - [Flask](https://flask.palletsprojects.com/): Lightweight Python web framework for rapid development.
+  - [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API): Protocol for full-duplex communication channels over a single TCP connection.
 
-#### **Data (Databases)**
+#### **Data (Databases & Messaging)**
 - **SQL**:
   - [PostgreSQL](https://www.postgresql.org/): Advanced relational database with robust JSON support.
   - [MySQL](https://www.mysql.com/): Popular open-source relational database management system.
   - [SQL Server](https://www.microsoft.com/en-us/sql-server): Microsoft's enterprise-grade relational database.
 - **NoSQL**:
   - [MongoDB](https://www.mongodb.com/): Document-oriented NoSQL database designed for scalability.
+  - [Redis](https://redis.io/): In-memory key-value store, used for caching and message brokering.
+  - [Neo4j](https://neo4j.com/): Graph database optimized for connected data and relationship queries.
+- **Messaging & Streaming**:
+  - [RabbitMQ](https://www.rabbitmq.com/): Reliable open-source message broker for asynchronous communication.
+  - [Apache Kafka](https://kafka.apache.org/): Distributed event streaming platform for high-throughput data pipelines.
+
+#### **Web3 (Smart Contract Development)**
+- **Solidity + JavaScript**:  
+  - [Hardhat](https://hardhat.org/): Development environment for Ethereum smart contracts.  
+  - [Truffle](https://trufflesuite.com/): Smart contract development framework.  
+  - [ethers.js](https://docs.ethers.io/v5/): A library for interacting with Ethereum.
+- **Security**:  
+  - [OpenZeppelin](https://openzeppelin.com/contracts/): Secure, audited smart contract libraries for Solidity.
+- **Storage**:
+  - [IPFS](https://ipfs.tech/): Peer-to-peer hypermedia protocol for decentralized file storage.
 
 #### **DevOps & Collaboration**
-- **Containerization**: [Docker](https://www.docker.com/): For containerizing applications and streamlining development.  
-- **Version Control**: [GitHub](https://github.com/): Repository management and collaboration platform.
+- **Containerization**:  
+  - [Docker](https://www.docker.com/): For containerizing applications and streamlining development.
+- **Version Control**:  
+  - [GitHub](https://github.com/): Repository management and collaboration platform.
 
 ## ⚽ Fun Facts
 - ⚽ Avid **football fan**, always ready to catch a game or hit the pitch.  
-- 📈 Enthusiastic about **investing and trading**, especially in crypto and stocks.  
-- 🧮 Fascinated by **numerology** and its intersection with data science.  
+- 📈 Enthusiastic about **investing and trading**, especially in crypto and nft.  
 
 ## ✨ What Inspires Me
 *"The best way to predict the future is to create it."*    
@@ -102,7 +96,7 @@ I'm always looking to collaborate on exciting open-source blockchain projects. F
 
 ## 🎯 Future Goals
 - 🛠️ Contribute significantly to the **crypto and Web3 ecosystem** by building impactful projects.  
-- 🚀 Expand my skillset in blockchain scalability and decentralized finance (DeFi).  
+- 🚀 Expand my skillset in fintech, blockchain scalability and decentralized finance (DeFi).  
 
 ## 📫 Contact Me  
 📍 District 8, HCMC | 📞 +84 337 737 047 | ✉️ [pason.dev@gmail.com](mailto:pason.dev@gmail.com)  
