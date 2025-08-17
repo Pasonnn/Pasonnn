@@ -1,4 +1,4 @@
-# [Hi there 👋, I'm Pason.dev!](https://pasonweb3cv.vercel.app/)
+# [Hi there 👋, I'm Pason.Dev!](https://pasonweb3cv.vercel.app/)
 🔗 Software Engineer | 4+ Years in Web3 | Node.js, FastAPI, Flask | Smart Contracts, Web3 Integration 🔥 I use Arch btw :D
 
 ## 🚀 About Me
