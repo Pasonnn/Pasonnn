@@ -5,7 +5,6 @@
 - 🏡 Based in **Ho Chi Minh City, Vietnam**
 - 💻 **Blockchain and Backend Engineer**  
 - 🌟 Passionate about revolutionizing how we interact with blockchain technology, currently building innovative solutions for the **crypto world**.
-- 🧮 Developing **crypto automation**, **trading bots**, **retroactive scripts**, and **blockchain tools**.
 
 ## 🏆 Achievements
 - 🥉 **Top 3 Greenwich Coding Challenge Final Round 2023**
