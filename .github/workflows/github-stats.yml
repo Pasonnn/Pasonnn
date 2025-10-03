@@ -24,7 +24,7 @@ jobs:
           
       # Generate activity graph - using master instead of v2
       - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@master
+        uses: ashutosh00710/github-readme-activity-graph@main
         with:
           github_user_name: Pasonnn
           theme: tokyo-night
