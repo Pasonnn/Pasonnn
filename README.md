@@ -85,7 +85,7 @@
   
   <details open>
     <summary><b>2025 Contributions</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasonnn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202024" alt="2025 Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasonnn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202025" alt="2025 Contribution Graph" />
   </details>
 
   <!-- Contribution calendar -->
