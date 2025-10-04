@@ -13,7 +13,7 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="left" width="60%">
+    <td align="left" width="100%">
       <p>
         <b>A Passionate Developer focusing on Web3</b>
       </p>
@@ -40,7 +40,7 @@
         <br>
       </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="100%">
       <h4>💻 Programming Languages</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,python,solidity" />
