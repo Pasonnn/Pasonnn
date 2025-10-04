@@ -21,7 +21,7 @@
         🎓 Student at <b>University of Greenwich</b><br>
         ⏳ 4+ years in <b>Blockchain / Web3</b><br>
         📄 Published: <a href="https://www.ijcaonline.org/archives/volume185/number35/32917-2023923141/">“Blockchain Data Storage on IJCA”</a><br>
-        🚀 Developing BE & SC of <a href="https://app.decodenetwork.app/">Decode</a><br>
+        🚀 Developing <a href="https://app.decodenetwork.app/">The Decode Network</a><br>
         🏆 Awards: <br>• 🥉 Top 3 Greenwich Coding Challenge <br>• 🥉 Top 3 IT Student Summer 2023<br>• 📚 Best Student in 5 Subjects<br>
         🌍 Community: <br>
         • 🤝 Blockchain Advisor @ Miss Charm 2022 <br>
