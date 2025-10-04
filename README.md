@@ -13,15 +13,15 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="left" width="70%">
+    <td align="left" width="60%">
       <p>
-        <b>💡 A Passionate Developer focusing on Web Technologies and Web3 Solutions</b>
+        <b>A Passionate Developer focusing on Web3</b>
       </p>
       <p>
         🎓 Student at <b>University of Greenwich</b><br>
-        ⏳ 4+ years in <b>Blockchain / Web3</b> with achievements in coding challenges & publications<br>
+        ⏳ 4+ years in <b>Blockchain / Web3</b><br>
         📄 Published: <a href="https://www.ijcaonline.org/archives/volume185/number35/32917-2023923141/">“Blockchain Data Storage on IJCA”</a><br>
-        🚀 Developing back-end and smart contracts of <a href="https://app.decodenetwork.app/">The Decode Network</a><br>
+        🚀 Developing Back-End & Smart Contracts of <a href="https://app.decodenetwork.app/">Decode</a><br>
         🏆 Awards: <br>• 🥉 Top 3 Greenwich Coding Challenge <br>• 🥉 Top 3 IT Student Summer 2023<br>• 📚 Best Student in 5 Subjects<br>
         🌍 Community: <br>
         • 🤝 Blockchain Advisor @ Miss Charm 2022 <br>
@@ -35,8 +35,8 @@
         • 📊 Ex-Blockchain Researcher @ <b>Coinbold</b><br>
         <br>
         🙌 Volunteer:<br>
-        • 🌱 Volunteer in <b>Green by Greenwich Season 2</b> by ShaLov (<a href="YOUR_CERTIFICATE_LINK">view certificate</a>)<br>
-        • 🧭 Orientation Leader in <b>University of Greenwich</b> (K13 Cohort, 2024)<br>
+        • 🌱 Volunteer in <b>Green by Greenwich Season 2</b><br>
+        • 🧭 Orientation Leader in <b>University of Greenwich</b><br>
         <br>
       </p>
     </td>
@@ -77,20 +77,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasonnn&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <!-- Yearly Contributions Section -->
-<h2 align="center">📅 Contribution Timeline</h2>
+<h2 align="center">📅 Contribution Statistic</h2>
 
 <!-- Yearly contribution navigator -->
 <div align="center">
-  <h3>📈 Contribution Statistics</h3>
   
   <details open>
-    <summary><b>2025 Contributions</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasonnn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202025" alt="2025 Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasonnn&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions" alt="Last 30 Days Contribution Graph" />
   </details>
 
   <!-- Contribution calendar -->
   <details open>
-    <summary><h3>Contribution Graph</h3></summary>
     <img src="https://github.com/Pasonnn/Pasonnn/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
   </details>
 </div>
