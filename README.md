@@ -73,9 +73,8 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pasonnn&theme=tokyonight&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasonnn&theme=tokyonight" alt="GitHub Streak" />
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pasonnn&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasonnn&theme=tokyonight&layout=compact" />
 <!-- Yearly Contributions Section -->
 <h2 align="center">📅 Contribution Statistic</h2>
 
