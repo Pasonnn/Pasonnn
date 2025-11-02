@@ -81,7 +81,7 @@
 <!-- Yearly Contributions Section -->
 <h2 align="center">📅 Contribution Statistic</h2>
 
-<!-- Yearly contribution navigator -->
+<!-- Yearly contribution navigator  -->
 <div align="center">
   
   <details open>
