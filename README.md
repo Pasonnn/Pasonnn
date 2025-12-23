@@ -31,7 +31,8 @@
         • 🎥 Head of Media @ HelloGIT Club<br>
         <br>
         💼 Experience:<br>
-        • 👨‍💻 Back-End Developer Intern @ <b>Vietnam Silicon</b><br>
+        • 💼 IT Consultant @ <b>Netcompany</b><br>
+        • 👨‍💻 Ex-Back-End Developer Intern @ <b>Vietnam Silicon</b><br>
         • ☁️ FCJ Trainee @ <b>AWS Vietnam</b><br>
         • 🔗 Ex-Blockchain Developer Intern @ <b>Apps Cyclone</b><br>
         • 🔐 Ex-Blockchain Developer Intern @ <b>Be Earning JSC</b><br>
