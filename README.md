@@ -23,6 +23,7 @@
         📄 Published: <a href="https://www.ijcaonline.org/archives/volume185/number35/32917-2023923141/">“Blockchain Data Storage on IJCA”</a><br>
         <br>
         🏆 Awards: <br>• 🥉 Top 3 Greenwich Coding Challenge <br>• 🥉 Top 3 IT Student Summer 2023<br>• 📚 Best Student in 6 Subjects and Fall 2025 Final Year Thesis <br>
+        <br>
         🌍 Community: <br>
         • 🤝 Blockchain Advisor @ Miss Charm 2022 <br>
         • 🎥 Head of Media @ HelloGIT Club<br>
