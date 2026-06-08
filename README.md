@@ -15,7 +15,7 @@
   <tr>
     <td align="left" width="100%">
       <p>
-        <b>A Passionate Developer focusing on Web3</b>
+        <b>A Passionate Software Engineer and Web3 Builder</b>
       </p>
       <p>
         🎓 Student at <b>University of Greenwich</b><br>
@@ -25,7 +25,7 @@
         🧩 Mini Side Projects:<br>
         • 🌐 <a href="https://ac-capstone-project.vercel.app/airdrops">Airdrop Builder</a><br>
         <br>
-        🏆 Awards: <br>• 🥉 Top 3 Greenwich Coding Challenge <br>• 🥉 Top 3 IT Student Summer 2023<br>• 📚 Best Student in 5 Subjects<br>
+        🏆 Awards: <br>• 🥉 Top 3 Greenwich Coding Challenge <br>• 🥉 Top 3 IT Student Summer 2023<br>• 📚 Best Student in 6 Subjects and Fall 2025 Final Year Thesis <br>
         🌍 Community: <br>
         • 🤝 Blockchain Advisor @ Miss Charm 2022 <br>
         • 🎥 Head of Media @ HelloGIT Club<br>
@@ -37,10 +37,6 @@
         • 🔗 Ex-Blockchain Developer Intern @ <b>Apps Cyclone</b><br>
         • 🔐 Ex-Blockchain Developer Intern @ <b>Be Earning JSC</b><br>
         • 📊 Ex-Blockchain Researcher @ <b>Coinbold</b><br>
-        <br>
-        🙌 Volunteer:<br>
-        • 🌱 Volunteer in <b>Green by Greenwich Season 2</b><br>
-        • 🧭 Orientation Leader in <b>University of Greenwich</b><br>
         <br>
       </p>
     </td>
