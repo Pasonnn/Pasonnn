@@ -19,11 +19,8 @@
       </p>
       <p>
         🎓 Student at <b>University of Greenwich</b><br>
-        ⏳ 4+ years in <b>Blockchain / Web3</b><br>
+        ⏳ 6+ years in <b>Blockchain / Web3</b><br>
         📄 Published: <a href="https://www.ijcaonline.org/archives/volume185/number35/32917-2023923141/">“Blockchain Data Storage on IJCA”</a><br>
-        🚀 Developing <a href="https://app.decodenetwork.app/">The Decode Network</a><br>
-        🧩 Mini Side Projects:<br>
-        • 🌐 <a href="https://ac-capstone-project.vercel.app/airdrops">Airdrop Builder</a><br>
         <br>
         🏆 Awards: <br>• 🥉 Top 3 Greenwich Coding Challenge <br>• 🥉 Top 3 IT Student Summer 2023<br>• 📚 Best Student in 6 Subjects and Fall 2025 Final Year Thesis <br>
         🌍 Community: <br>
