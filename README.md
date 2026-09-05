@@ -21,6 +21,15 @@
 
 Software Engineer focused on **secure, scalable, and performance-oriented systems** — happiest when designing reliable backends, optimizing complex workflows, and collaborating across teams.
 
+```mermaid
+flowchart LR
+    IDEA["Complex problem"] --> DESIGN["System design"]
+    DESIGN --> BUILD["Clean implementation"]
+    BUILD --> OBSERVE["Measure & observe"]
+    OBSERVE --> SCALE["Scale with confidence"]
+    SCALE -. feedback .-> DESIGN
+```
+
 ## `> experience.log`
 
 | Timeline | Role | Company |
@@ -30,7 +39,7 @@ Software Engineer focused on **secure, scalable, and performance-oriented system
 | **Aug 2025 — Oct 2025** | Blockchain Developer Intern | Arps Cyclone |
 | **Feb 2025 — Apr 2025** | Blockchain Developer Intern | Be Earning JSC |
 
-## `> stack --list`
+## `> toolchain.manifest`
 
 <div align="center">
 
@@ -73,18 +82,13 @@ Software Engineer focused on **secure, scalable, and performance-oriented system
 | **Aug 2026 — Present** | M.Sc. Computer Science | Ho Chi Minh City University of Technology |
 | **Aug 2022 — Apr 2026** | B.Sc. (Hons) Computing · First Class Honours | University of Greenwich |
 
-## `> github --telemetry`
+## `> ./run-engineering-console`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pasonnn&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight">
-    <img width="49%" alt="Pason's GitHub statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pasonnn&show_icons=true&hide_border=true&rank_icon=github&theme=default">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pasonnn&hide_border=true&theme=tokyonight">
-    <img width="49%" alt="Pason's GitHub contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasonnn&hide_border=true&theme=default">
-  </picture>
+  <img width="100%" alt="Animated distributed systems engineering console" src="./assets/system-console.svg">
 </div>
+
+## `> github --signal`
 
 <div align="center">
 

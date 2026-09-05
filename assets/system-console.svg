@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title description">
+  <title id="title">Pason's animated distributed systems engineering console</title>
+  <desc id="description">A neon architecture diagram showing traffic flowing through an API gateway, event bus, workers, and data layer.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b17"/>
+      <stop offset="0.52" stop-color="#0b1224"/>
+      <stop offset="1" stop-color="#11142d"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#22304d" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .label { fill: #dbeafe; font: 600 16px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 1px; }
+      .micro { fill: #7dd3fc; font: 12px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 1.2px; }
+      .muted { fill: #7383a7; font: 11px ui-monospace, SFMono-Regular, Menlo, monospace; }
+      .node { fill: #0c1529; stroke: #34456d; stroke-width: 1.5; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .packet { animation: travel 3.2s linear infinite; }
+      .packet.two { animation-delay: -1.05s; }
+      .packet.three { animation-delay: -2.1s; }
+      .scan { animation: scan 5s linear infinite; }
+      .blink { animation: blink 1.3s steps(2, jump-none) infinite; }
+      @keyframes pulse { 0%, 100% { opacity: .45; transform: scale(.94); } 50% { opacity: 1; transform: scale(1.08); } }
+      @keyframes travel { from { offset-distance: 0%; } to { offset-distance: 100%; } }
+      @keyframes scan { from { transform: translateY(-20px); } to { transform: translateY(440px); } }
+      @keyframes blink { 50% { opacity: .18; } }
+      @media (prefers-reduced-motion: reduce) { .pulse, .packet, .scan, .blink { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="420" rx="18" fill="url(#background)"/>
+  <rect x="1" y="1" width="998" height="418" rx="17" fill="none" stroke="#26375b" stroke-width="2"/>
+  <rect width="1000" height="420" rx="18" fill="url(#grid)"/>
+  <rect class="scan" x="14" y="0" width="972" height="1" fill="#38bdf8" opacity="0.28" filter="url(#glow)"/>
+
+  <circle cx="31" cy="28" r="5" fill="#fb7185"/>
+  <circle cx="49" cy="28" r="5" fill="#fbbf24"/>
+  <circle cx="67" cy="28" r="5" fill="#4ade80"/>
+  <text x="500" y="33" text-anchor="middle" class="micro">PAS0N // DISTRIBUTED SYSTEMS CONTROL PLANE</text>
+  <path d="M18 52H982" stroke="#26375b"/>
+
+  <text x="34" y="82" class="muted">SYSTEM / ARCHITECTURE</text>
+  <text x="798" y="82" class="muted">STATUS</text>
+  <circle class="pulse" cx="963" cy="77" r="6" fill="#4ade80" filter="url(#glow)"/>
+  <text x="900" y="82" class="micro" fill="#4ade80">ONLINE</text>
+
+  <path id="route" d="M106 194 H894" fill="none" stroke="url(#signal)" stroke-width="3" opacity="0.7"/>
+  <path d="M106 194 H894" fill="none" stroke="#7dd3fc" stroke-width="10" opacity="0.05" filter="url(#glow)"/>
+
+  <g transform="translate(42 145)">
+    <rect class="node" width="128" height="98" rx="12"/>
+    <path d="M22 31h24M22 42h38M22 53h29" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+    <text x="64" y="76" text-anchor="middle" class="label">CLIENTS</text>
+  </g>
+  <g transform="translate(240 145)">
+    <rect class="node" width="148" height="98" rx="12"/>
+    <path d="M28 48h92M43 33l-15 15 15 15M105 33l15 15-15 15" fill="none" stroke="#60a5fa" stroke-width="3"/>
+    <text x="74" y="78" text-anchor="middle" class="label">API GATEWAY</text>
+  </g>
+  <g transform="translate(444 145)">
+    <rect class="node" width="128" height="98" rx="12"/>
+    <circle cx="40" cy="43" r="8" fill="none" stroke="#818cf8" stroke-width="3"/>
+    <circle cx="64" cy="43" r="8" fill="none" stroke="#818cf8" stroke-width="3"/>
+    <circle cx="88" cy="43" r="8" fill="none" stroke="#818cf8" stroke-width="3"/>
+    <text x="64" y="76" text-anchor="middle" class="label">EVENT BUS</text>
+  </g>
+  <g transform="translate(628 145)">
+    <rect class="node" width="128" height="98" rx="12"/>
+    <path d="M39 31h50v34H39zM30 39h9M30 48h9M30 57h9M89 39h9M89 48h9M89 57h9" fill="none" stroke="#a78bfa" stroke-width="3"/>
+    <text x="64" y="78" text-anchor="middle" class="label">WORKERS</text>
+  </g>
+  <g transform="translate(812 145)">
+    <rect class="node" width="146" height="98" rx="12"/>
+    <ellipse cx="73" cy="35" rx="28" ry="10" fill="none" stroke="#c084fc" stroke-width="3"/>
+    <path d="M45 35v26c0 6 13 10 28 10s28-4 28-10V35M45 48c0 6 13 10 28 10s28-4 28-10" fill="none" stroke="#c084fc" stroke-width="3"/>
+    <text x="73" y="86" text-anchor="middle" class="label">DATA LAYER</text>
+  </g>
+
+  <circle class="packet" r="6" fill="#e0f2fe" filter="url(#glow)" style="offset-path:path('M106 194 H894')"/>
+  <circle class="packet two" r="6" fill="#c4b5fd" filter="url(#glow)" style="offset-path:path('M106 194 H894')"/>
+  <circle class="packet three" r="6" fill="#e879f9" filter="url(#glow)" style="offset-path:path('M106 194 H894')"/>
+
+  <g transform="translate(34 292)">
+    <rect width="932" height="91" rx="10" fill="#070c18" stroke="#26375b"/>
+    <text x="20" y="27" class="micro">$ deploy --strategy resilient --scale global</text>
+    <text x="20" y="51" class="muted">[OK] secure APIs  [OK] async processing  [OK] observable services  [OK] cloud native</text>
+    <text x="20" y="74" class="micro">BUILDING SYSTEMS THAT STAY FAST WHEN THE WORLD GETS LOUD</text>
+    <rect class="blink" x="626" y="63" width="9" height="14" fill="#7dd3fc"/>
+  </g>
+</svg>
